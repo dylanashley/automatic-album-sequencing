@@ -1,0 +1,14 @@
+h5py
+librosa
+matplotlib
+networkx
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+streamlit
+torch
+tqdm
+watchdog
